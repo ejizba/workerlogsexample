@@ -1,0 +1,1 @@
+throw new Error("example failed entry point");
